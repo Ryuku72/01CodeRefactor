@@ -1,11 +1,10 @@
 # HomeworkW1
-<H1> Homework Week 1 Horiseon </H1> 
-
+<H1>Horiseon Assignment</H1> 
+<br>
 <H2>Aim</H2>
 <P> Take the existing Html and CSS project files provided in the WAUS-CRAW-FSF-PT-02-2020-U-C-MW / Week1 / Day1 / Homework repository on GitLab and refractor it to meet a set of goals set by the Week 1 Homework Assignment. For extra flare, show addition understanding of principals discussed in Week 1 through application.</P>
 
 <H2> Expectations aka Web Accessibility</H2>
-<li>
   <ul>Sematic and Sequential Order of Elements (HTML and CSS)</ul>
   <ul>Logical structure independent of style </ul>
   <ul>Utilizing 'Alt' attribute</ul>
@@ -14,14 +13,13 @@
   <ul>Clean up the code</ul>
 
 <H2>Key concepts and tools from Week 1</H2>
-<li>
   <ul> Html Syntax </ul>
   <ul> Css Syntax </ul>
   <ul> Floats </ul>
   <ul> Positioning </ul>
   <ul> Box Models </ul>
-</li>
-
+<br>
+<br>
 <H2>Meeting Expectations </h2>
 <H3>Sematic and Sequential Order of Elements (HTML & CSS)</H3>
 <H4>HTML<H4>
