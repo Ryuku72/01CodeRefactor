@@ -85,7 +85,7 @@ section {
     background-color: #0072bb;
 }
 
-.content-box > img {
+.content-box img {
     max-height: 200px;
     position: relative;
 }
