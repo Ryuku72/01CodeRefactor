@@ -21,7 +21,7 @@ The original Index.html and Style.css are attached to these projects for referen
 
 
 <a name="semantics"></a>
-#### Semantic and Sequential Order of Elements
+### Semantic and Sequential Order of Elements
 The original index.html contained heavy use of the 'div' elements that were using 'class' as an indicator of the structure.
 In theory the original structure worked as following: head, title, body, header, div: nav, div: img, div: content, div: benifit, and div: footer. To make this structure more semantic and sequential the order was reworked into the following: head, title, body, header, nav, figure, section, aside, and footer. The 'nav' root element was later removed as it served the same purpose as the 'header' root element. The original style.css contained similiar problems by over using the class tags and placing the 'aside' elements before the 'content' elements. Corresponding to the new structure implemented in the Html a numnber of classes were renamed, edited or merged.
 
