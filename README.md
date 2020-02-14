@@ -12,11 +12,11 @@ The original Index.html and Style.css are attached to these projects for referen
 * Using Github
 
 ## Table of Content
-[Semantic and Sequential Order of Elements] (#Semantics)
-[Logical Structure Independent of style] (#Logic)
-[Repair missing or broken elements] (#Repair)
-[Cleaning up the code] (#Clean)
-[Bonus: Make things pretty // Experimentation] (#Bonus)
+* [Semantic and Sequential Order of Elements](#Semantics)
+* [Logical Structure Independent of style](#Logic)
+* [Repair missing or broken elements](#Repair)
+* [Cleaning up the code](#Cleanup)
+* [Bonus: Make things pretty // Experimentation](#Bonus)
 
 ## Technology
 * HyperText Markup Language
@@ -26,7 +26,7 @@ The original Index.html and Style.css are attached to these projects for referen
 * Google Chrome ver 79.0.3945.130
 
 
-### (#Semantics) Semantic and Sequential Order of Elements
+### (#Semantics)Semantic and Sequential Order of Elements
 The original index.html contained heavy use of the '<div>' elements that were using 'class' as an indicator of the structure.
 In theory the original structure worked as following:'<head>', '<title>', '<body>', '<header>', '<div: nav>', '<div: img>', '<div: content>', '<div: benifit>', and '<div: footer>'. To make this structure more semantic and sequential the order was reworked into the following: '<head>','<title>','<body>', '<header>', '<nav>', '<figure>', '<section>', '<aside>', and '<footer>'. The '<nav>' root element was later removed as it served the same purpose as the '<header>' root element.
 
@@ -34,17 +34,17 @@ The original style.css contained similiar problems by over using the class tags 
 
 Notes were applied to both the HTML and CSS between each section to clear indicate where one root element began and ended. 
 
-### (#logic) Logical Structure Independent of Style
+### (#logic)Logical Structure Independent of Style
 The logical structure of the original index.html was very clean. The only error I found might be the footer using '<H2>' after '<H3>' and the over use of div elements. 
 
 The '<figure>' element which contained the '<div class= hero>' was changed to include the '<img src>' element from the Style.css. The arguement from a design perspective is your 'hero' image is important in indicating expectation and it made it easier to style the element within the CSS.  
 
-### (#Repair) Repairing Missing or Broken Elements
+### (#Repair)Repairing Missing or Broken Elements
 * The link for '#search-engine-optimization' within the '<header>' was not work as the corresponding ID did not exist. This was inserted on line 40.
 * Title was named 'Website' and later renamed 'Horiseon | Social Solutions'.
 * Alt elements were applied to every img src attribute in the html. Larger pictures were given short discriptions whilst icons were simply named after the icons they were representing
 
-### (#Clear) Cleaning up the code
+### (#Cleanup)Cleaning up the code
 As inidcated in the Semantic section I did start dramatically reducing the number of classes in the CSS and removed the '<nav>' section in the HTML. For contrast the original html was 83 lines of code and the edit was increased to 103 lines to accomadate additional spacing and notes. The original CSS was 200 lines of code and the edit become 182 regardless of the additional notes, spacing and styling. 
 
 Key points of change was reducing the '<content>' and '<aside>' root elements, moving the '<img src>' to the HTML, adding additional elements to the new '<figure>' root element and changing some of the element style settings.
