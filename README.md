@@ -1,3 +1,7 @@
+![GitHub last commit](https://img.shields.io/github/last-commit/Ryuku72/HomeworkW1?style=for-the-badge)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Ryuku72/HomeworkW1?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/Ryuku72/HomeworkW1?style=for-the-badge)
+
 # Horiseon Assignment // Week 1 homework
 
 ## Aim // Introduction
