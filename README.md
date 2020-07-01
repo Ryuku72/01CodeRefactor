@@ -3,8 +3,7 @@
 ![GitHub contributors](https://img.shields.io/github/contributors/Ryuku72/01CodeRefactor?style=for-the-badge)
 
 # Code Refactor 
-## Project One
-13 Feb 2020
+Project One 13 Feb 2020
 
 ## Aim // Introduction
 Take the existing Html and CSS project files provided in the WAUS-CRAW-FSF-PT-02-2020-U-C-MW / Week1 / Day1 / Homework repository on GitLab and refractor it to meet a outline set by the Week 1 Homework Assignment. For extra flare, show addition understanding of principals discussed in Week 1 through application.
