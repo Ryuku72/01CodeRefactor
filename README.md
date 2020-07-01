@@ -1,8 +1,10 @@
-![GitHub last commit](https://img.shields.io/github/last-commit/Ryuku72/HomeworkW1?style=for-the-badge)
-![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Ryuku72/HomeworkW1?style=for-the-badge)
-![GitHub contributors](https://img.shields.io/github/contributors/Ryuku72/HomeworkW1?style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/Ryuku72/01CodeRefactor?style=for-the-badge)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/Ryuku72/01CodeRefactor?style=for-the-badge)
+![GitHub contributors](https://img.shields.io/github/contributors/Ryuku72/01CodeRefactor?style=for-the-badge)
 
-# Horiseon Assignment // Week 1 homework
+# Code Refactor 
+## Project One
+13 Feb 2020
 
 ## Aim // Introduction
 Take the existing Html and CSS project files provided in the WAUS-CRAW-FSF-PT-02-2020-U-C-MW / Week1 / Day1 / Homework repository on GitLab and refractor it to meet a outline set by the Week 1 Homework Assignment. For extra flare, show addition understanding of principals discussed in Week 1 through application.
